@@ -2,7 +2,7 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-}
+} /* sets image and borders to have no padding/margin which means they touch the edges of the display */
 
 body {
     background-color: #d9dcd6;
@@ -22,7 +22,7 @@ body {
 
 .header h1 .seo {
     color: #d9dcd6;
-}
+} /*sets "seo" letters in company title to slightly different color. Please advise if this is clients official logo or if color should be changed to something more accessible. */
 
 .header div {
     padding-top: 15px;
