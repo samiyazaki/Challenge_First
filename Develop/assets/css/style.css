@@ -21,8 +21,8 @@ body {
 }
 
 .header h1 .seo {
-    color: #d9dcd6;
-} /*sets "seo" letters in company title to slightly different color. Please advise if this is clients official logo or if color should be changed to something more accessible. */
+    color: #9affd8;
+} /*sets "seo" letters in company title to slightly different color. Please advise if this is clients official logo or if color change to be more accessible is allowed. */
 
 .header div {
     padding-top: 15px;
@@ -86,21 +86,21 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead,
+.benefit-lead, /*Condensed CSS to allow for better more concise semantics*/
 .benefit-brand,
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-lead h3,
+.benefit-lead h3, /*Condensed CSS to allow for better more concise semantics*/
 .benefit-brand h3,
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-lead img,
+.benefit-lead img, /*Condensed CSS to allow for better more concise semantics*/
 .benefit-brand img,
 .benefit-cost img {
     display: block;
@@ -108,7 +108,7 @@ p {
     max-width: 150px;
 }
 
-.search-engine-optimization,
+.search-engine-optimization, /*Condensed CSS to allow for better more concise semantics*/
 .online-reputation-management,
 .social-media-marketing {
     margin-bottom: 20px;
@@ -119,13 +119,13 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img, 
+.search-engine-optimization img, /*Condensed CSS to allow for better more concise semantics*/
 .online-reputation-management img,
 .social-media-marketing img {
     max-height: 200px;
 }
 
-.search-engine-optimization h2,
+.search-engine-optimization h2, /*Condensed CSS to allow for better more concise semantics*/
 .online-reputation-management h2,
 .social-media-marketing h2 {
     margin-bottom: 20px;
